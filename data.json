@@ -1,0 +1,84 @@
+{
+  "title": "Test Cards",
+  "questionSound": "rabbit.mp3",
+  "type": "tts",
+  "speak": "tell me this ?",
+  "cards": [
+
+    {
+      "duration": 2000,
+      "sound": "r.mp3",
+      "image": "rabbit.jpg"
+    },
+
+    {
+      "duration": 2000,
+      "sound": "q.mp3",
+      "image": "question.jpg"
+
+    }, {
+      "duration": 2000,
+      "sound": "f.mp3",
+      "image": "father.png"
+    }, {
+      "duration": 2000,
+      "sound": "d.mp3",
+      "image": "donkey-icon.png"
+
+    }, {
+      "duration": 2000,
+      "sound": "c.mp3",
+      "image": "clock.png"
+    }, {
+      "duration": 2000,
+      "sound": "r.mp3",
+      "image": "rabbit.jpg"
+    },
+
+    {
+      "duration": 2000,
+      "sound": "q.mp3",
+      "image": "question.jpg"
+
+    }, {
+      "duration": 2000,
+      "sound": "f.mp3",
+      "image": "father.png"
+    }, {
+      "duration": 2000,
+      "sound": "d.mp3",
+      "image": "donkey-icon.png"
+
+    }, {
+      "duration": 2000,
+      "sound": "c.mp3",
+      "image": "clock.png"
+    }, {
+      "duration": 2000,
+      "sound": "eeeeee.mp3",
+      "image": "rabbit.jpg"
+    },
+
+    {
+      "duration": 2000,
+      "sound": "eeee.mp3",
+      "image": "question.jpg"
+
+    }, {
+      "duration": 2000,
+      "sound": "eeee.mp3",
+      "image": "father.png"
+    }, {
+      "duration": 2000,
+      "sound": "eeee.mp3",
+      "image": "donkey-icon.png"
+
+    }, {
+      "duration": 2000,
+      "sound": "eeee.mp3",
+      "image": "clock.png"
+    }
+
+
+  ]
+}
