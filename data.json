@@ -8,6 +8,8 @@
     {
       "duration": 2000,
       "sound": "r.mp3",
+      "type":"tts",
+      "speak":"H for horse",
       "image": "rabbit.jpg"
     },
 
